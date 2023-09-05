@@ -43,11 +43,8 @@ def find_text(soup):
 def text_to_moodle(lis, num):
         xml_string = ""
         xml_string += f"""\n    <question type="multichoice">
-        <name>
-            <text>Question {num}</text>
-        </name>
         <questiontext format="html">
-            <text><![CDATA[<p>{lis[0]}</p>]]></text>
+            <text><![CDATA[<p>Question {num}</p>]]></text>
         </questiontext>
         <generalfeedback format="html">
             <text></text>
