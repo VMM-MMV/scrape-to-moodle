@@ -87,11 +87,13 @@ def clean_text(text):
 
 def display_broken_questions(li):
     for i in li:
-        print("Quetion Number:", i[0], i[1])
+        print("Question Number:", i[0], i[1])
 
 # [https://www.briefmenow.org/emc/which-implementation-of-distributed-content-architecture-provides-for-both-content-and-metadata-to-be-synchronized-across-multiple-repositories/
 # https://www.briefmenow.org/emc/what-is-created-by-the-content-server-as-a-result-of-the-copy-operation/
 # ]
+
+
 # Make a first connection
 url = "https://www.briefmenow.org/emc/which-implementation-of-distributed-content-architecture-provides-for-both-content-and-metadata-to-be-synchronized-across-multiple-repositories/"
 soup = make_connection(url)
@@ -120,7 +122,7 @@ for i in range(228, num_of_questions): #279
 
     try:
         xml_body += text_to_moodle(text, i-broken-1)
-    except:
+    except IndexError:
         list_of_broken_questions.append((i, text))
         broken+=1
     os.system("clear")
