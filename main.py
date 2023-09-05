@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import requests, re, time
+import requests, re, time, os
 from bs4 import BeautifulSoup
 
 def make_connection(url):
@@ -85,38 +85,51 @@ def clean_text(text):
     text = text.replace("Explanation:","").replace("Show Answer","").replace("&","and")
     return re.sub(r'[^a-zA-Z0-9 .,\n]', '', r"{}".format(text.strip()))
 
+def display_broken_questions(li):
+    for i in li:
+        print("Quetion Number:", i[0], i[1])
 
+# [https://www.briefmenow.org/emc/which-implementation-of-distributed-content-architecture-provides-for-both-content-and-metadata-to-be-synchronized-across-multiple-repositories/
+# https://www.briefmenow.org/emc/what-is-created-by-the-content-server-as-a-result-of-the-copy-operation/
+# ]
 # Make a first connection
-url = "https://www.briefmenow.org/emc/what-is-created-by-the-content-server-as-a-result-of-the-copy-operation/"
+url = "https://www.briefmenow.org/emc/which-implementation-of-distributed-content-architecture-provides-for-both-content-and-metadata-to-be-synchronized-across-multiple-repositories/"
 soup = make_connection(url)
 
 xml_body = ""
-num_of_questions = 279
+num_of_questions = 233
+list_of_broken_questions = []
+
 #Data colection
-import os
 broken = 0
-for i in range(2, num_of_questions): #279
+for i in range(228, num_of_questions): #279
     print(round((i-2)*100/(num_of_questions),1), "%")
+    
     url = find_link(i, soup)
-    # print(url)
+
+    if url is None: 
+        print(f"No URL found for question number {i}. Exiting loop.")
+        break
+
     try:
         soup = make_connection(url)
     except ConnectionError:
         time.sleep(60)
         soup = make_connection(url)
     text = find_text(soup)
+
     try:
         xml_body += text_to_moodle(text, i-broken-1)
     except:
-        print(i)
-        print(text)
+        list_of_broken_questions.append((i, text))
         broken+=1
-    # os.system("cls")
+    os.system("clear")
 
 write_to_file(xml_body)
 
 print("100.0 %")
-print(broken)
+print("The Amount Of Broken Questions:", broken)
+print(display_broken_questions(list_of_broken_questions))
 
 
 # Legacy code
