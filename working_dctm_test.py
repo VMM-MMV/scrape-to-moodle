@@ -43,8 +43,11 @@ def find_text(soup):
 def text_to_moodle(lis, num):
         xml_string = ""
         xml_string += f"""\n    <question type="multichoice">
+        <name>
+            <text>Question {num}</text>
+        </name>
         <questiontext format="html">
-            <text><![CDATA[<p>Question {num}</p>]]></text>
+            <text><![CDATA[<p>{lis[0]}</p>]]></text>
         </questiontext>
         <generalfeedback format="html">
             <text></text>
@@ -103,7 +106,7 @@ for i in range(2, num_of_questions): #279
         soup = make_connection(url)
     text = find_text(soup)
     try:
-        xml_body += text_to_moodle(text, i-broken)
+        xml_body += text_to_moodle(text, i-broken-1)
     except:
         print(i)
         print(text)

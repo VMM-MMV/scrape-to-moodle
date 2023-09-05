@@ -2,7 +2,7 @@
 <quiz>
     <question type="multichoice">
         <name>
-            <text>Question 2</text>
+            <text>Question 1</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true when a checkin operation is performed by the Content Server</p>]]></text>
@@ -29,7 +29,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 3</text>
+            <text>Question 2</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is required to enable editing of a document in the repository</p>]]></text>
@@ -56,7 +56,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 4</text>
+            <text>Question 3</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding a document object with renditions</p>]]></text>
@@ -83,7 +83,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 5</text>
+            <text>Question 4</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What implements subscriptions to document objects</p>]]></text>
@@ -110,7 +110,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 6</text>
+            <text>Question 5</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What must the client application do to enable a user to view a different rendition format than theoriginal associated with the document object</p>]]></text>
@@ -137,7 +137,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 7</text>
+            <text>Question 6</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about fulltext activation in D2</p>]]></text>
@@ -164,7 +164,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 8</text>
+            <text>Question 7</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding functionality in D2 version 4.0 and later</p>]]></text>
@@ -191,7 +191,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 9</text>
+            <text>Question 8</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the process used to ensure that multiple repositories can share the same subset ofdocuments</p>]]></text>
@@ -218,7 +218,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 10</text>
+            <text>Question 9</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What facilitates access to a specific document from different locations</p>]]></text>
@@ -245,7 +245,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 11</text>
+            <text>Question 10</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which product provides policybased implementation of Information Lifecycle Management</p>]]></text>
@@ -272,7 +272,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 12</text>
+            <text>Question 11</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which benefit does the Branch Office Caching Services BOCS architecture provide in a singlerepository distributed environment</p>]]></text>
@@ -299,7 +299,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 13</text>
+            <text>Question 12</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When using a Documentum web application, which components are required for accessing arepository</p>]]></text>
@@ -326,7 +326,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 14</text>
+            <text>Question 13</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which architectural characteristic of Documentum provides for aggregation of unstructuredcontent</p>]]></text>
@@ -353,7 +353,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 15</text>
+            <text>Question 14</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which formats can be stored in the Documentum repository</p>]]></text>
@@ -380,7 +380,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 16</text>
+            <text>Question 15</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An administrator has modified an XML document in the file system.How can the administrator replace an XML document that already exists in the repository with themodified document</p>]]></text>
@@ -407,7 +407,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 17</text>
+            <text>Question 16</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a characteristic feature of My Documentum for Desktop</p>]]></text>
@@ -434,7 +434,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 18</text>
+            <text>Question 17</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Webtop feature enables quick access to favorite documents from the browser tree menu</p>]]></text>
@@ -461,7 +461,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 19</text>
+            <text>Question 18</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What happens to a Microsoft Word document when a user imports it into the repository</p>]]></text>
@@ -488,7 +488,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 20</text>
+            <text>Question 19</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In a Documentum environment, how is it apparent to a user that Microsoft Office integrations areenabled on their machine</p>]]></text>
@@ -515,7 +515,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 21</text>
+            <text>Question 20</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A Webtop user checks out a Microsoft Word document from the repository and edits it.How will the user be prompted upon checkin of the edited document</p>]]></text>
@@ -542,7 +542,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 22</text>
+            <text>Question 21</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When a document object is checked in as the same version, which statement is true</p>]]></text>
@@ -569,7 +569,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 23</text>
+            <text>Question 22</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>If a user has completed the checkout operation on a document object, which statement is true</p>]]></text>
@@ -596,7 +596,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 24</text>
+            <text>Question 23</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When a document with renditions is versioned, which statement is true</p>]]></text>
@@ -623,7 +623,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 25</text>
+            <text>Question 24</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true for checking in multiple document objects to a repository</p>]]></text>
@@ -650,7 +650,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 26</text>
+            <text>Question 25</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true for a user who has Browse and Extended Delete and does not belong toany roles listed on the permission set</p>]]></text>
@@ -677,7 +677,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 27</text>
+            <text>Question 26</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding versioning when a user edits version 1.1 of a document object,which is an older version than what is currently available</p>]]></text>
@@ -704,7 +704,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 28</text>
+            <text>Question 27</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A client application applies the In Review version label to a document object.What is the expected behavior the next time a user performs a checkin on that document</p>]]></text>
@@ -731,7 +731,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 29</text>
+            <text>Question 28</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user has Edit Write permission on a document object that is contained in FolderA. The sameuser has Edit Write permission on FolderA and FolderB.The user wants to move the document object from FolderA to FolderB.Which statement is true</p>]]></text>
@@ -758,7 +758,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 30</text>
+            <text>Question 29</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When renditions are managed along with the document objects primary rendition, whichstatement is true</p>]]></text>
@@ -785,7 +785,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 31</text>
+            <text>Question 30</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about the ability to drag and drop objects from within Webtop to the userslocal desktop</p>]]></text>
@@ -812,7 +812,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 32</text>
+            <text>Question 31</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can be subscribed to in the repository</p>]]></text>
@@ -839,7 +839,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 33</text>
+            <text>Question 32</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Where in Webtop can the default application for viewing objects be set</p>]]></text>
@@ -866,7 +866,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 34</text>
+            <text>Question 33</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does the CopyPaste function in Webtop accomplish</p>]]></text>
@@ -893,7 +893,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 35</text>
+            <text>Question 34</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which action does the Content Server perform when a user rightclicks an object and selects Edit</p>]]></text>
@@ -920,7 +920,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 36</text>
+            <text>Question 35</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is required for a user to initiate editing of a document in D2 that is stored in the repository</p>]]></text>
@@ -947,7 +947,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 37</text>
+            <text>Question 36</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding renditions</p>]]></text>
@@ -974,7 +974,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 38</text>
+            <text>Question 37</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How are the attributes that are used in the Webtop Smart Navigation feature configured</p>]]></text>
@@ -1001,7 +1001,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 39</text>
+            <text>Question 38</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the foundation on which each search template in TaskSpace is built</p>]]></text>
@@ -1028,7 +1028,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 40</text>
+            <text>Question 39</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>By default, which search configuration does Webtop Advanced Search allow</p>]]></text>
@@ -1055,7 +1055,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 41</text>
+            <text>Question 40</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the Place in Text filter available for when using CenterStage</p>]]></text>
@@ -1082,7 +1082,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 42</text>
+            <text>Question 41</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In CenterStage, which action is necessary to enable users to search for content in remoterepositories</p>]]></text>
@@ -1109,7 +1109,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 43</text>
+            <text>Question 42</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A CenterStage user performs a global search and receives the error message AuthenticationfailedHow can the user fix the error and successfully perform this search</p>]]></text>
@@ -1136,7 +1136,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 44</text>
+            <text>Question 43</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is necessary to limit a search to a single CenterStage space</p>]]></text>
@@ -1163,7 +1163,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 45</text>
+            <text>Question 44</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How do search rankings in CenterStage appear</p>]]></text>
@@ -1190,7 +1190,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 46</text>
+            <text>Question 45</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which object properties are indexed by xPlore</p>]]></text>
@@ -1217,7 +1217,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 47</text>
+            <text>Question 46</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>If lemmatization is enabled for repository searches, what will users notice when they performsearches using Webtop</p>]]></text>
@@ -1244,7 +1244,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 48</text>
+            <text>Question 47</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Using D2, which feature is configurable for simple searches</p>]]></text>
@@ -1271,7 +1271,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 49</text>
+            <text>Question 48</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can provide quick access to objects that are frequently used</p>]]></text>
@@ -1298,7 +1298,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 50</text>
+            <text>Question 49</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which attribute is among those that Webtop simple search runs against when fulltext indexing isNOT enabled</p>]]></text>
@@ -1325,7 +1325,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 51</text>
+            <text>Question 50</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Assuming that xPlore is installed and the repository is configured to use it, when is an objectsmetadata searchable</p>]]></text>
@@ -1352,7 +1352,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 52</text>
+            <text>Question 51</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How does indexing latency in xPlore affect repository searches</p>]]></text>
@@ -1379,7 +1379,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 53</text>
+            <text>Question 52</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding Webtop Advanced Search</p>]]></text>
@@ -1406,7 +1406,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 54</text>
+            <text>Question 53</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user with NONE privilege created a public Saved Search in Webtop.Which statement is true</p>]]></text>
@@ -1433,7 +1433,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 55</text>
+            <text>Question 54</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In Webtop, by default, what is the maximum number of results that are returned for a search</p>]]></text>
@@ -1460,7 +1460,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 56</text>
+            <text>Question 55</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When using the Webtop Advanced Search page to find all objects created and updated within theprevious week, on which attribute should a user search</p>]]></text>
@@ -1487,7 +1487,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 57</text>
+            <text>Question 56</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user is performing a search in Webtop and needs to display a Title column in the search resultlist.Where should the user add the Title column</p>]]></text>
@@ -1514,7 +1514,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 58</text>
+            <text>Question 57</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Using Webtops Simple Search, a user enters Specification as the search parameter.Assuming fulltext searching is NOT enabled for the repository, what will be included in the searchresults</p>]]></text>
@@ -1541,7 +1541,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 59</text>
+            <text>Question 58</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>xPlore is not installed and configured for the repository. A user executes a Simple Search inWebtop for quick brown fox.Which types of objects will be included in the search results</p>]]></text>
@@ -1568,7 +1568,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 60</text>
+            <text>Question 59</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>UserA searches for objects within a folder, and 85 objects are returned. UserB performs the samesearch and 0 objects are returned.Which statement is true regarding UserBs permissions on the objects and the folder</p>]]></text>
@@ -1595,7 +1595,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 61</text>
+            <text>Question 60</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How can a user add a descendant to a virtual document in Webtop</p>]]></text>
@@ -1622,7 +1622,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 62</text>
+            <text>Question 61</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about virtual documents in a Documentum repository is true</p>]]></text>
@@ -1649,7 +1649,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 63</text>
+            <text>Question 62</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A virtual document in Webtop contains no content.By default, what happens when a user clicks the virtual documents name</p>]]></text>
@@ -1676,7 +1676,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 64</text>
+            <text>Question 63</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about the relationship between virtual documents and XML documents</p>]]></text>
@@ -1703,7 +1703,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 65</text>
+            <text>Question 64</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about virtual document components is true</p>]]></text>
@@ -1730,7 +1730,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 66</text>
+            <text>Question 65</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement describes an assembly</p>]]></text>
@@ -1757,7 +1757,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 67</text>
+            <text>Question 66</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Several reviewers annotated the Employee Handbook document. Another reviewer is attemptingto access those annotations but is unable to do so.Why is the reviewer unable to access the annotations</p>]]></text>
@@ -1784,7 +1784,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 68</text>
+            <text>Question 67</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement best describes a Documentum Relationship</p>]]></text>
@@ -1811,7 +1811,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 69</text>
+            <text>Question 68</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>By default, how does the Content Server authenticate user accounts</p>]]></text>
@@ -1838,7 +1838,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 70</text>
+            <text>Question 69</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can a Superuser do that a user with Sysadmin privilege cannot</p>]]></text>
@@ -1865,7 +1865,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 71</text>
+            <text>Question 70</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which privilege does a user need to view all the documents in the repository using Webtop</p>]]></text>
@@ -1892,7 +1892,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 72</text>
+            <text>Question 71</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When creating a new user, which attributes are required</p>]]></text>
@@ -1919,7 +1919,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 73</text>
+            <text>Question 72</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the purpose of a users extended privileges</p>]]></text>
@@ -1946,7 +1946,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 74</text>
+            <text>Question 73</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does the Sysadmin privilege enable a user to do</p>]]></text>
@@ -1973,7 +1973,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 75</text>
+            <text>Question 74</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which function can a user with System Administrator privilege perform</p>]]></text>
@@ -2000,7 +2000,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 76</text>
+            <text>Question 75</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does a users inline password authentication setting do</p>]]></text>
@@ -2027,7 +2027,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 77</text>
+            <text>Question 76</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does the Extended Delete permission on a document enable a user to do</p>]]></text>
@@ -2054,7 +2054,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 78</text>
+            <text>Question 77</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which action is possible when LDAP is used with Documentum</p>]]></text>
@@ -2081,7 +2081,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 79</text>
+            <text>Question 78</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What are valid values for the Client Capability setting of a user</p>]]></text>
@@ -2108,7 +2108,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 80</text>
+            <text>Question 79</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can be imported using the Sync and Authentication tab of the LDAP Server Configurationobject</p>]]></text>
@@ -2135,7 +2135,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 81</text>
+            <text>Question 80</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An administrator created a group in Webtop called Dept As Group.How will the name property of Dept As Group appear in the repository</p>]]></text>
@@ -2162,7 +2162,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 82</text>
+            <text>Question 81</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about the groupname attribute of the group object is true</p>]]></text>
@@ -2189,7 +2189,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 83</text>
+            <text>Question 82</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a role an instance of</p>]]></text>
@@ -2216,7 +2216,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 84</text>
+            <text>Question 83</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which task must an administrator do to enable Domain Group functionality</p>]]></text>
@@ -2243,7 +2243,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 85</text>
+            <text>Question 84</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A Webtop user has the Client Capability attribute set to Consumer.Which restrictions are imposed on this user</p>]]></text>
@@ -2270,7 +2270,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 86</text>
+            <text>Question 85</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An administrator writes custom code to enable the addition or removal of users to DynamicGroups.Where should this custom code be placed</p>]]></text>
@@ -2297,7 +2297,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 87</text>
+            <text>Question 86</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a direct subtype of dmsysobject</p>]]></text>
@@ -2324,7 +2324,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 88</text>
+            <text>Question 87</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which combination of items can be included in a Dynamic Group</p>]]></text>
@@ -2351,7 +2351,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 89</text>
+            <text>Question 88</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What must be in place in the client to enable the addition of users to a Dynamic Group</p>]]></text>
@@ -2378,7 +2378,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 90</text>
+            <text>Question 89</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>User A needs to add a rendition to a document. User B then needs to annotate the rendition thatUser A added.Which Documentum basic permissions are required for these users</p>]]></text>
@@ -2405,7 +2405,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 91</text>
+            <text>Question 90</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding default values for basic and extended permissions in aDocumentum permission set for dmowner</p>]]></text>
@@ -2432,7 +2432,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 92</text>
+            <text>Question 91</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>By default, which choices are available for the acl configuration</p>]]></text>
@@ -2459,7 +2459,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 93</text>
+            <text>Question 92</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Corporate policy prohibits employees from editing documents, and stipulates that employees canonly make on documents.Which minimum permission must be assigned to the documents to enforce this policy</p>]]></text>
@@ -2486,7 +2486,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 94</text>
+            <text>Question 93</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Corporate policy mandates that a new minor or major version of a document must be createdevery time a document is edited.Which minimum permission must be applied to the documents to enforce this policy</p>]]></text>
@@ -2513,7 +2513,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 95</text>
+            <text>Question 94</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding the deletion of a document from the Documentum repository</p>]]></text>
@@ -2540,7 +2540,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 96</text>
+            <text>Question 95</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user creates a permission set and is the owner of that permission set.Which type of permission set does the user have</p>]]></text>
@@ -2567,7 +2567,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 97</text>
+            <text>Question 96</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding permission set templates and a normal permission set</p>]]></text>
@@ -2594,7 +2594,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 98</text>
+            <text>Question 97</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which action requires WRITE permission, at a minimum</p>]]></text>
@@ -2621,7 +2621,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 99</text>
+            <text>Question 98</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the purpose of folder security in a Documentum repository</p>]]></text>
@@ -2648,7 +2648,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 100</text>
+            <text>Question 99</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What determines the name of a custom permission set</p>]]></text>
@@ -2675,7 +2675,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 101</text>
+            <text>Question 100</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Due to a high volume of tasks and the need for quick processing, a more efficient workflow isneeded.Which Documentum Tool and Configuration Object should be used in the configuration of thebusiness process</p>]]></text>
@@ -2702,7 +2702,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 102</text>
+            <text>Question 101</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In a workflow template, what is transferred by ports among the workflows activities</p>]]></text>
@@ -2729,7 +2729,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 103</text>
+            <text>Question 102</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An administrator requires the ability to create an activity by copying an existing activity. Theadministrator also needs to configure different protocols.Which component fulfills these functionality requirements</p>]]></text>
@@ -2756,7 +2756,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 104</text>
+            <text>Question 103</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about D2 workflows</p>]]></text>
@@ -2783,7 +2783,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 105</text>
+            <text>Question 104</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What enables users to easily develop process and eventoriented applications for documentmanagement</p>]]></text>
@@ -2810,7 +2810,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 106</text>
+            <text>Question 105</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What executes the automatic activities of a business process</p>]]></text>
@@ -2837,7 +2837,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 107</text>
+            <text>Question 106</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When a workflow supervisor first creates and saves a workflow object, in which state is thatworkflow</p>]]></text>
@@ -2864,7 +2864,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 108</text>
+            <text>Question 107</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is correct regarding workflow attachments</p>]]></text>
@@ -2891,7 +2891,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 109</text>
+            <text>Question 108</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What are the tasks that comprise the business process in a business process template</p>]]></text>
@@ -2918,7 +2918,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 110</text>
+            <text>Question 109</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Aliases in a workflow can be used for which components</p>]]></text>
@@ -2945,7 +2945,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 111</text>
+            <text>Question 110</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does the work queue policy in a business process determine</p>]]></text>
@@ -2972,7 +2972,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 112</text>
+            <text>Question 111</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can be created to formalize a repeatable process that has been ad hoc in the past</p>]]></text>
@@ -2999,7 +2999,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 113</text>
+            <text>Question 112</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A parent workflow initiates a child workflow, and the parent workflow is configured to wait for thechild workflow to complete. What must happen for the parent workflow to proceed</p>]]></text>
@@ -3026,7 +3026,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 114</text>
+            <text>Question 113</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A running workflow instances automated activity has failed and another automatic activity needsto be triggered.How can the workflow be configured to anticipate failures of the automated activity</p>]]></text>
@@ -3053,7 +3053,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 115</text>
+            <text>Question 114</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When configuring an Email Inbound  Step or Initiate activity in the Process Activity Inspector,what is a valid protocol for connecting to the email server</p>]]></text>
@@ -3080,7 +3080,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 116</text>
+            <text>Question 115</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can a user with the minimum role of queuemanager do while monitoring the work queues</p>]]></text>
@@ -3107,7 +3107,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 117</text>
+            <text>Question 116</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How is a skill set for the queue and its processors defined on a queue containing workflow tasks</p>]]></text>
@@ -3134,7 +3134,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 118</text>
+            <text>Question 117</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the purpose of queue categories</p>]]></text>
@@ -3161,7 +3161,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 119</text>
+            <text>Question 118</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>The queue policy must exist in order to complete which task in Documentum Administrator</p>]]></text>
@@ -3188,7 +3188,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 120</text>
+            <text>Question 119</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An activity in a workflow is configured by choosing a group and setting Least Amount of UnfinishedWork Items.How is the workflow task assigned</p>]]></text>
@@ -3215,7 +3215,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 121</text>
+            <text>Question 120</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A Legal department has just been notified of a newly instated law. There is a legal form that needsto be updated, reviewed, and published within the hour. There is only one publisher that isavailable for these tasks.What is required if quickflow is used to send the publisher the tasks</p>]]></text>
@@ -3242,7 +3242,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 122</text>
+            <text>Question 121</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which task can a performer complete when a workflow contains a reject flow</p>]]></text>
@@ -3269,7 +3269,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 123</text>
+            <text>Question 122</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Why is the install action necessary on a workflow template that was created by a user in ProcessBuilder</p>]]></text>
@@ -3296,7 +3296,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 124</text>
+            <text>Question 123</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>If auditing for the workflow template is turned on, which type of information is available to theadministrator</p>]]></text>
@@ -3323,7 +3323,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 125</text>
+            <text>Question 124</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>The publishing workflow process has been started on a news article. Using Webtop and workflowreporting, which task can be completed</p>]]></text>
@@ -3350,7 +3350,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 126</text>
+            <text>Question 125</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When is an uninstall of a process template necessary</p>]]></text>
@@ -3377,7 +3377,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 127</text>
+            <text>Question 126</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>To which type can the account that the Content Server uses to perform lifecycle actions beconfigured</p>]]></text>
@@ -3404,7 +3404,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 128</text>
+            <text>Question 127</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which two states can a lifecycle have</p>]]></text>
@@ -3431,7 +3431,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 129</text>
+            <text>Question 128</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A standard Documentum lifecycle is implemented as an instance of which object type</p>]]></text>
@@ -3458,7 +3458,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 130</text>
+            <text>Question 129</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding lifecycles and workflows</p>]]></text>
@@ -3485,7 +3485,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 131</text>
+            <text>Question 130</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about lifecycles</p>]]></text>
@@ -3512,7 +3512,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 132</text>
+            <text>Question 131</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How are lifecycles in D2 stored</p>]]></text>
@@ -3539,7 +3539,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 133</text>
+            <text>Question 132</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is used to create a standard Documentum lifecycle</p>]]></text>
@@ -3566,7 +3566,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 134</text>
+            <text>Question 133</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>On which stage or stages of the lifecycle are entry criteria evaluated</p>]]></text>
@@ -3593,7 +3593,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 135</text>
+            <text>Question 134</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding State extensions</p>]]></text>
@@ -3620,7 +3620,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 136</text>
+            <text>Question 135</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is used to create and configure State extensions</p>]]></text>
@@ -3647,7 +3647,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 137</text>
+            <text>Question 136</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user is unable to promote an object to the next state in a lifecycle. The user is not the objectowner or a superuser, but has Change State permission on the object.Which additional permission is required to enable the user to perform the desired task</p>]]></text>
@@ -3674,7 +3674,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 138</text>
+            <text>Question 137</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>If a lifecycle state specifies a procedure to run, when is the procedure executed</p>]]></text>
@@ -3701,7 +3701,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 139</text>
+            <text>Question 138</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does a lifecycle do</p>]]></text>
@@ -3728,7 +3728,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 140</text>
+            <text>Question 139</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which dmsysobject attribute refers to the attached lifecycle</p>]]></text>
@@ -3755,7 +3755,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 141</text>
+            <text>Question 140</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which lifecycle action can be performed from the Webtop interface</p>]]></text>
@@ -3782,7 +3782,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 142</text>
+            <text>Question 141</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is an exception state in a lifecycle</p>]]></text>
@@ -3809,7 +3809,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 143</text>
+            <text>Question 142</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which action moves a document to a previous lifecycle state</p>]]></text>
@@ -3836,7 +3836,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 144</text>
+            <text>Question 143</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding entry criteria for a particular state</p>]]></text>
@@ -3863,7 +3863,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 145</text>
+            <text>Question 144</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is required to enable monitoring of historical process data</p>]]></text>
@@ -3890,7 +3890,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 146</text>
+            <text>Question 145</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which factor determines the ability to turn on auditing for the purposes of reporting historicalprocess data</p>]]></text>
@@ -3917,7 +3917,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 147</text>
+            <text>Question 146</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which component is necessary to enable the collection of historical process reports</p>]]></text>
@@ -3944,7 +3944,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 148</text>
+            <text>Question 147</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the essential building block of a process report</p>]]></text>
@@ -3971,7 +3971,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 149</text>
+            <text>Question 148</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How must auditing be configured to facilitate process reporting</p>]]></text>
@@ -3998,7 +3998,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 150</text>
+            <text>Question 149</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is required to make a filtered report on process data available</p>]]></text>
@@ -4025,7 +4025,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 151</text>
+            <text>Question 150</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which functionality does the SMTP activity template provide to users</p>]]></text>
@@ -4052,7 +4052,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 152</text>
+            <text>Question 151</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which activity requires the content that is sent to it to be a wellformed XML file that is namespaceselfsufficient</p>]]></text>
@@ -4079,7 +4079,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 153</text>
+            <text>Question 152</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is included in an inbound message and is used to match that message to the processinstance</p>]]></text>
@@ -4106,7 +4106,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 154</text>
+            <text>Question 153</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What enables the exchange of documents and information with people outside the organization,thus extending the automated business processes to include external participants</p>]]></text>
@@ -4133,7 +4133,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 155</text>
+            <text>Question 154</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true about DQL</p>]]></text>
@@ -4160,7 +4160,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 156</text>
+            <text>Question 155</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about DQL is true</p>]]></text>
@@ -4187,7 +4187,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 157</text>
+            <text>Question 156</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which DQL statement is used to modify an object type</p>]]></text>
@@ -4214,7 +4214,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 158</text>
+            <text>Question 157</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which DQL statement will modify the character size of attribute approvername</p>]]></text>
@@ -4241,7 +4241,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 159</text>
+            <text>Question 158</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which DQL element is used to identify the object type and RDBMS tables to retrieve from aDocumentum repository</p>]]></text>
@@ -4268,7 +4268,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 160</text>
+            <text>Question 159</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about DQL is true</p>]]></text>
@@ -4295,7 +4295,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 161</text>
+            <text>Question 160</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is returned by the following querySELECT  FROM dmdocument WHERE rcreationdateDATE040113</p>]]></text>
@@ -4322,7 +4322,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 162</text>
+            <text>Question 161</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which form of the FROM clause will search only the current version of the SOP type</p>]]></text>
@@ -4349,7 +4349,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 163</text>
+            <text>Question 162</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A repository has objects of dmdocument type in a folder named SOPNet. A user wants to findall dmdocument in this folder AND all containing subfolders checked out by them.How can the user complete the following query to accomplish thisselect  from dmdocumentwhere rlockowneruser </p>]]></text>
@@ -4376,7 +4376,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 164</text>
+            <text>Question 163</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about the DQL WHERE clause is true</p>]]></text>
@@ -4403,7 +4403,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 165</text>
+            <text>Question 164</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An external table has been registered using this DQL statementREGISTER TABLE airportstable airportnameSTRING256, airportcode STRING3Which DQL statement will return the airportcode for John F. Kennedy Airport</p>]]></text>
@@ -4430,7 +4430,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 166</text>
+            <text>Question 165</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a key feature of Composer Projects</p>]]></text>
@@ -4457,7 +4457,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 167</text>
+            <text>Question 166</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about Composer Projects is true</p>]]></text>
@@ -4484,7 +4484,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 168</text>
+            <text>Question 167</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How should Aspects be named within a Composer project</p>]]></text>
@@ -4511,7 +4511,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 169</text>
+            <text>Question 168</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What happens when a Composer Project is installed in a repository</p>]]></text>
@@ -4538,7 +4538,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 170</text>
+            <text>Question 169</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What CANNOT be included in a Composer Project</p>]]></text>
@@ -4565,7 +4565,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 171</text>
+            <text>Question 170</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the purpose of a Composer DAR file</p>]]></text>
@@ -4592,7 +4592,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 172</text>
+            <text>Question 171</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which change is permitted during modification of a custom attribute in Composer</p>]]></text>
@@ -4619,7 +4619,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 173</text>
+            <text>Question 172</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What must be done before dropping a custom type from the repository</p>]]></text>
@@ -4646,7 +4646,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 174</text>
+            <text>Question 173</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What do Composers pre and post installation procedures determine</p>]]></text>
@@ -4673,7 +4673,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 175</text>
+            <text>Question 174</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about Documentum base types is true</p>]]></text>
@@ -4700,7 +4700,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 176</text>
+            <text>Question 175</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Where are Composer Projects stored</p>]]></text>
@@ -4727,7 +4727,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 177</text>
+            <text>Question 176</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the default resolution scope for a Workflow Alias</p>]]></text>
@@ -4754,7 +4754,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 178</text>
+            <text>Question 177</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does the Content Server do when it cannot resolve a workflow alias</p>]]></text>
@@ -4781,7 +4781,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 179</text>
+            <text>Question 178</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a benefit to using Permission Set Templates</p>]]></text>
@@ -4808,7 +4808,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 180</text>
+            <text>Question 179</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which aliases are required to ensure portability of an application that creates a document, links toa folder, assigns a permission set, and saves a document</p>]]></text>
@@ -4835,7 +4835,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 181</text>
+            <text>Question 180</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a valid alias</p>]]></text>
@@ -4862,7 +4862,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 182</text>
+            <text>Question 181</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which is a valid alias reference</p>]]></text>
@@ -4889,7 +4889,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 183</text>
+            <text>Question 182</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What does a Template ACL contain</p>]]></text>
@@ -4916,7 +4916,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 184</text>
+            <text>Question 183</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the primary purpose for using aliases and alias sets</p>]]></text>
@@ -4943,7 +4943,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 185</text>
+            <text>Question 184</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the only required component of an alias reference</p>]]></text>
@@ -4970,7 +4970,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 186</text>
+            <text>Question 185</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which character precedes an alias value</p>]]></text>
@@ -4997,7 +4997,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 187</text>
+            <text>Question 186</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What can be referenced as an alias</p>]]></text>
@@ -5024,7 +5024,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 188</text>
+            <text>Question 187</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user needs to list the names and version labels of all versions of documents in the repository towhich they have permission to access. The user also wants the information about each versiongrouped together.Which DQL query will yield this result</p>]]></text>
@@ -5051,7 +5051,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 189</text>
+            <text>Question 188</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user wants to search for a document whose subject is set to server or Server.Which DQL query will do this</p>]]></text>
@@ -5078,7 +5078,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 190</text>
+            <text>Question 189</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which DQL statement will show the object ID of the previous version of a document nameddocument1</p>]]></text>
@@ -5105,7 +5105,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 191</text>
+            <text>Question 190</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which properties of the dmdocument objects are returned by the following DQL querySelect  from dmdocument, the </p>]]></text>
@@ -5132,7 +5132,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 192</text>
+            <text>Question 191</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user wants a list of documents with keywords that contain the words parent, child or bothparent and child.How should the following query be completed to achieve this result selectobjectname fromdmdocument </p>]]></text>
@@ -5159,7 +5159,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 193</text>
+            <text>Question 192</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user wants to write a DQL query that can be run on a daily basis to determine which documentswere modified since the start of the previous day.How should the following query be completed to achieve this result selectobjectname fromdmdocument </p>]]></text>
@@ -5186,7 +5186,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 194</text>
+            <text>Question 193</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user wants to determine how many folders and cabinets are linked to a document namedtestdoc.Which query will do this</p>]]></text>
@@ -5213,7 +5213,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 195</text>
+            <text>Question 194</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user needs to change the subject property of a document named Blueprint to Office Building.Which DQL statement will achieve this result</p>]]></text>
@@ -5240,7 +5240,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 196</text>
+            <text>Question 195</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A folder named inner resides in the cabinet named outer.How should a user complete the following query to list all objects directly inside the innerfolderselectobjectname from dmsysobject </p>]]></text>
@@ -5267,7 +5267,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 197</text>
+            <text>Question 196</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which query will retrieve the names of all document owners and provide a count of the number ofdocuments each user owns</p>]]></text>
@@ -5294,7 +5294,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 198</text>
+            <text>Question 197</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A user wants to replace the first author of a document named document1 with userA.Which DQL statement will do this</p>]]></text>
@@ -5321,7 +5321,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 199</text>
+            <text>Question 198</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which three tiers define the D2 architecture</p>]]></text>
@@ -5348,7 +5348,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 200</text>
+            <text>Question 199</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding D2 configurations</p>]]></text>
@@ -5375,7 +5375,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 201</text>
+            <text>Question 200</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which method cannot extend D2</p>]]></text>
@@ -5402,7 +5402,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 202</text>
+            <text>Question 201</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Through which means does D2 provide the ability to customize client interaction with content in arepository</p>]]></text>
@@ -5429,7 +5429,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 203</text>
+            <text>Question 202</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding D2s integration with Content Server</p>]]></text>
@@ -5456,7 +5456,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 204</text>
+            <text>Question 203</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is used to transfer files between D2 and the client browser</p>]]></text>
@@ -5483,7 +5483,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 205</text>
+            <text>Question 204</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding D2 after initial installation</p>]]></text>
@@ -5510,7 +5510,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 206</text>
+            <text>Question 205</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How is the majority of client code in D2 authored</p>]]></text>
@@ -5537,7 +5537,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 207</text>
+            <text>Question 206</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding changing views or pages in the D2 interface</p>]]></text>
@@ -5564,7 +5564,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 208</text>
+            <text>Question 207</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding communication in D2</p>]]></text>
@@ -5591,7 +5591,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 209</text>
+            <text>Question 208</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Documentum configuration tool is used to design user interface pages for an xCP 1.xapplication</p>]]></text>
@@ -5618,7 +5618,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 210</text>
+            <text>Question 209</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which tool is used to deploy xCP 1.x applications into different environments</p>]]></text>
@@ -5645,7 +5645,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 211</text>
+            <text>Question 210</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the role of Documentum Process Integrator in xCP 1.x applications</p>]]></text>
@@ -5672,7 +5672,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 212</text>
+            <text>Question 211</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In an xCP 1.x application, Business Activity Monitor BAM cannot provide reporting data for aparticular process unless which feature is enabled in the process template</p>]]></text>
@@ -5699,7 +5699,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 213</text>
+            <text>Question 212</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>End users interact with xCP 1.x applications using which webbased client</p>]]></text>
@@ -5726,7 +5726,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 214</text>
+            <text>Question 213</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which tool is used to configure document routing as well as review and approval functionality foran xCP 1.x application</p>]]></text>
@@ -5753,7 +5753,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 215</text>
+            <text>Question 214</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the role of Document Image Services in xCP 1.x applications</p>]]></text>
@@ -5780,7 +5780,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 216</text>
+            <text>Question 215</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Documentum configuration tool is used to design user interface pages for an xCP 2.xapplication</p>]]></text>
@@ -5807,7 +5807,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 217</text>
+            <text>Question 216</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When developing an xCP 2.x application, the application can be quickly deployed for testingpurposes using which tool</p>]]></text>
@@ -5834,7 +5834,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 218</text>
+            <text>Question 217</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>End users interact with xCP 2.x applications using which webbased client</p>]]></text>
@@ -5861,7 +5861,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 219</text>
+            <text>Question 218</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In xCP 2.x, which type of reports can the BAM component generate</p>]]></text>
@@ -5888,7 +5888,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 220</text>
+            <text>Question 219</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement regarding xMS and xCP 2.x applications is true</p>]]></text>
@@ -5915,7 +5915,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 221</text>
+            <text>Question 220</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>How are business rules implemented in xCP 2.x</p>]]></text>
@@ -5942,7 +5942,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 222</text>
+            <text>Question 221</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement about the xCP 2.x viewer framework is true</p>]]></text>
@@ -5969,7 +5969,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 223</text>
+            <text>Question 222</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which xCP 2.x component provides discovered metadata for content objects</p>]]></text>
@@ -5996,7 +5996,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 224</text>
+            <text>Question 223</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What are the guiding principles of EMC Energy and Engineering Solutions</p>]]></text>
@@ -6023,7 +6023,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 225</text>
+            <text>Question 224</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What are used to determine the users to whom the Energy and Engineering Solutions transmittalsare sent</p>]]></text>
@@ -6050,7 +6050,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 226</text>
+            <text>Question 225</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Energy and Engineering Solutions architecture layer contains services such as transmittals,bulk loading, progress tracking, and project configuration</p>]]></text>
@@ -6077,7 +6077,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 227</text>
+            <text>Question 226</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which tool provides Energy and Engineering Solutions with the ability to rapidly load and indexdocument batches</p>]]></text>
@@ -6104,7 +6104,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 228</text>
+            <text>Question 227</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Documentum Life Sciences products are built on which client technology</p>]]></text>
@@ -6131,7 +6131,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 229</text>
+            <text>Question 228</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which user interfaces are supported by the Life Sciences Solution Suite</p>]]></text>
@@ -6158,7 +6158,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 230</text>
+            <text>Question 229</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement regarding functionality of the Life Sciences Solution Suite is true</p>]]></text>
@@ -6185,7 +6185,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 231</text>
+            <text>Question 230</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement regarding functionality of the Life Sciences Solution Suite is true</p>]]></text>
@@ -6212,7 +6212,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 232</text>
+            <text>Question 231</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A government customer has a requirement to enforce compliance and governance to UnitedStates Department of Defense standards.Which product should be the basis of their solution</p>]]></text>
@@ -6239,7 +6239,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 233</text>
+            <text>Question 232</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which product retrieves workflow process execution data from the Content Server audit trail,consolidates it in its own database, and generates graphical dashboard reports accessible throughTaskSpace</p>]]></text>
@@ -6266,7 +6266,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 234</text>
+            <text>Question 233</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A customer wants to provide its graphic artists with a Documentum WDKbased client thatdisplays files as image thumbnails. The customer wants the client user interface to have a similarlook and feel to Webtop.Which client product satisfies this requirement</p>]]></text>
@@ -6293,7 +6293,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 235</text>
+            <text>Question 234</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A customer has a large volume of check images that they want to store in the Documentumrepository.Which product is most appropriate given this requirement</p>]]></text>
@@ -6320,7 +6320,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 236</text>
+            <text>Question 235</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which High Volume Server feature enables the creation of an offline partition in the database,loads data into that offline partition, and then rapidly brings that offline partition online</p>]]></text>
@@ -6347,7 +6347,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 237</text>
+            <text>Question 236</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which product enables customers to enforce security policies on documents even when they areemailed to other parties that are outside of the organization</p>]]></text>
@@ -6374,7 +6374,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 238</text>
+            <text>Question 237</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which product can be used to develop applications in a Service Oriented Architecture</p>]]></text>
@@ -6401,7 +6401,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 239</text>
+            <text>Question 238</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A customer has a requirement to maintain controlled documents pursuant to United States federalregulatory requirements.Which product can satisfy this requirement</p>]]></text>
@@ -6428,7 +6428,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 240</text>
+            <text>Question 239</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A customer has a requirement to enable employees to have fast access to documents from any ofthe companys worldwide distributed offices. The office staff has no knowledge of Documentumsystem administration.Which distributed content solution satisfies this customers requirements</p>]]></text>
@@ -6455,7 +6455,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 241</text>
+            <text>Question 240</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>A customer has a requirement to implement a loan services workflow process that sends arequest to an outside creditreporting agency for a credit score. They then want the credit score tobe returned and incorporated into the process.Which xCPrelated feature satisfies this requirement</p>]]></text>
@@ -6482,7 +6482,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 242</text>
+            <text>Question 241</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the parent product for EMCs rendition and transformation capabilities</p>]]></text>
@@ -6509,7 +6509,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 243</text>
+            <text>Question 242</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Authentication plugin supports single signon SSO and secure communications betweenDocumentum components, while avoiding the overhead of Secure Sockets Layer</p>]]></text>
@@ -6536,7 +6536,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 244</text>
+            <text>Question 243</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which Documentum product can be used to parse through large volumes of documents and buildtaxonomies based on keywords and other relevant text</p>]]></text>
@@ -6563,7 +6563,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 245</text>
+            <text>Question 244</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When the D2Client is connected to the Documentum repository, which technology is used tomake the connection with the Content Server</p>]]></text>
@@ -6590,7 +6590,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 246</text>
+            <text>Question 245</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which service is automatically installed when Content Server is installed in a DocumentumWindows environment</p>]]></text>
@@ -6617,7 +6617,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 247</text>
+            <text>Question 246</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Of which components should multiple instances be created to help avoid a single point of failure inthe Documentum repository</p>]]></text>
@@ -6644,7 +6644,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 248</text>
+            <text>Question 247</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>The following object types are in a Documentum federationGlobal usersGlobal groupsGlobal permission setsWhere are those object types managed</p>]]></text>
@@ -6671,7 +6671,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 249</text>
+            <text>Question 248</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which service manages the repository and supports clientserver and webbased applications</p>]]></text>
@@ -6698,7 +6698,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 250</text>
+            <text>Question 249</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which two components constitute a Documentum repository</p>]]></text>
@@ -6725,7 +6725,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 251</text>
+            <text>Question 250</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which data is distributed in a distributed singlerepository</p>]]></text>
@@ -6752,7 +6752,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 252</text>
+            <text>Question 251</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>To which sessions does the Connection Broker provide information</p>]]></text>
@@ -6779,7 +6779,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 253</text>
+            <text>Question 252</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>In which object type does the administrator update the defaultacl attribute</p>]]></text>
@@ -6806,7 +6806,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 254</text>
+            <text>Question 253</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>An organization with a Service Oriented Architecture SOA wants to leverage remoteDocumentum content management operations.What is required on the application server to satisfy this requirement</p>]]></text>
@@ -6833,7 +6833,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 255</text>
+            <text>Question 254</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which framework should be used in a Documentum 7 environment</p>]]></text>
@@ -6860,7 +6860,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 256</text>
+            <text>Question 255</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is correct about adding an attribute to an object type</p>]]></text>
@@ -6887,7 +6887,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 257</text>
+            <text>Question 256</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a sub type of dmsysobject</p>]]></text>
@@ -6914,7 +6914,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 258</text>
+            <text>Question 257</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>For which clients does Documentums Data Dictionary store information</p>]]></text>
@@ -6941,7 +6941,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 259</text>
+            <text>Question 258</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is shared by a lightweight sysobject LWSO and its parent</p>]]></text>
@@ -6968,7 +6968,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 260</text>
+            <text>Question 259</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which attribute joins the unmaterialized lightweight sysobjects LWSO to the parent object</p>]]></text>
@@ -6995,7 +6995,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 261</text>
+            <text>Question 260</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding the data model for a lightweight sysobject LWSO</p>]]></text>
@@ -7022,7 +7022,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 262</text>
+            <text>Question 261</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What should be used to push an attribute to all instances of the type dmsysobject</p>]]></text>
@@ -7049,7 +7049,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 263</text>
+            <text>Question 262</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a valid name for an attribute on a custom type</p>]]></text>
@@ -7076,7 +7076,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 264</text>
+            <text>Question 263</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What are custom object types</p>]]></text>
@@ -7103,7 +7103,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 265</text>
+            <text>Question 264</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which statement is true regarding the robjectid attribute of a subtype of dmfolder</p>]]></text>
@@ -7130,7 +7130,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 266</text>
+            <text>Question 265</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the main purpose of an object type</p>]]></text>
@@ -7157,7 +7157,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 267</text>
+            <text>Question 266</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is a valid data type for a custom attribute associated with a custom type</p>]]></text>
@@ -7184,7 +7184,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 268</text>
+            <text>Question 267</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which attribute is automatically set by the Content Server when a document is created in aDocumentum repository</p>]]></text>
@@ -7211,7 +7211,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 269</text>
+            <text>Question 268</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What happens to all custom attribute values when an objects type is changed to its parent type</p>]]></text>
@@ -7238,7 +7238,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Question 270</text>
+            <text>Question 269</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Refer to the exhibit.In the version tree shown, with Delete permission on the document object, which statement istrue</p>]]></text>
