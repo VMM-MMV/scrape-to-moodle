@@ -44,7 +44,7 @@ def text_to_moodle(lis, num):
         xml_string = ""
         xml_string += f"""\n    <question type="multichoice">
         <name>
-            <text>Question {num}</text>
+            <text>Q-{num:03}</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>{lis[0]}</p>]]></text>
