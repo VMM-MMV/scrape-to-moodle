@@ -2,7 +2,7 @@
 <quiz>
     <question type="multichoice">
         <name>
-            <text>Q-227</text>
+            <text>Q-228</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>What is the super type of dmfolder</p>]]></text>
@@ -29,7 +29,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Q-228</text>
+            <text>Q-229</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>When a custom object type is created, where is information about the type stored</p>]]></text>
@@ -56,7 +56,7 @@
     </question>
     <question type="multichoice">
         <name>
-            <text>Q-229</text>
+            <text>Q-230</text>
         </name>
         <questiontext format="html">
             <text><![CDATA[<p>Which attribute does an unmaterialized lightweight sysobject LWSO share with its parent</p>]]></text>
@@ -79,6 +79,33 @@
         </answer>
         <answer fraction="0">
             <text>rpagecnt</text>
+        </answer>
+    </question>
+    <question type="multichoice">
+        <name>
+            <text>Q-231</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Which statement is true about a data model based on lightweight types</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text></text>
+        </generalfeedback>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <answer fraction="0">
+            <text>A lightweight type cannot be further subtyped.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Default storage defaultstorage must be set on the lightweight type.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Custom attributes can be defined in both shareable and lightweight types.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Attributes of materialized lightweight types cannot be fulltext indexed.</text>
         </answer>
     </question>
 </quiz>

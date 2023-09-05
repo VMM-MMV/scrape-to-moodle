@@ -40,6 +40,7 @@ def find_text(soup):
     else:
         return None
 
+
 def text_to_moodle(lis, num):
         xml_string = ""
         xml_string += f"""\n    <question type="multichoice">
@@ -85,10 +86,12 @@ def clean_text(text):
     text = text.replace("Explanation:","").replace("Show Answer","").replace("&","and")
     return re.sub(r'[^a-zA-Z0-9 .,\n]', '', r"{}".format(text.strip()))
 
+
 def display_broken_questions(li):
     for i in li:
         print("Question Number:", i[0], i[1])
 
+# Different links
 # [https://www.briefmenow.org/emc/which-implementation-of-distributed-content-architecture-provides-for-both-content-and-metadata-to-be-synchronized-across-multiple-repositories/
 # https://www.briefmenow.org/emc/what-is-created-by-the-content-server-as-a-result-of-the-copy-operation/
 # ]
@@ -102,15 +105,16 @@ xml_body = ""
 num_of_questions = 233
 list_of_broken_questions = []
 
-#Data colection
 broken = 0
-for i in range(228, num_of_questions): #279
+i = 1
+while(1):
     print(round((i-2)*100/(num_of_questions),1), "%")
     
     url = find_link(i, soup)
 
     if url is None: 
         print(f"No URL found for question number {i}. Exiting loop.")
+        os.system("clear")
         break
 
     try:
@@ -126,6 +130,7 @@ for i in range(228, num_of_questions): #279
         list_of_broken_questions.append((i, text))
         broken+=1
     os.system("clear")
+    i += 1
 
 write_to_file(xml_body)
 
